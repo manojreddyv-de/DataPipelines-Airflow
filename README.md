@@ -1,1 +1,1 @@
-# DataPipelines-Airflow
+This project demonstrates how to orchestrate a data pipeline using Apache Airflow, an open-source workflow management platform. It includes scheduling ETL jobs, developing custom plugins and operators tailored to the project’s requirements, and automating end-to-end pipeline execution.
